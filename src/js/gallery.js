@@ -1,4 +1,4 @@
-import galleryItems from "../app.js";
+import galleryItems from "index.js";
 
 const galleryStorageList = document.querySelector("ul.js-gallery");
 const lightboxRef = document.querySelector("div.js-lightbox");
