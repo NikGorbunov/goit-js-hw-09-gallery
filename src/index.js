@@ -1,4 +1,6 @@
 import galleryItems from "./js/gallery.js";
+import './sass/main.scss';
+
 
 
 const galleryStorageList = document.querySelector("ul.js-gallery");
